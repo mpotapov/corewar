@@ -10,6 +10,8 @@ void	error(t_asm *bin, int r, int error)
     n = 0;
     k = 1;
     a = bin->i;
+	if (k == 1)
+		printf("lol");
     if (error == 1)
         ft_printf("Syntax error in Name");
     else if(error == 2)

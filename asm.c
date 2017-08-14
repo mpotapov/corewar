@@ -10,7 +10,6 @@ void	error(t_asm *bin, int r, int error)
     n = 0;
     k = 1;
     a = bin->i;
-//    printf("wtf bro == %c\n", bin->file[*i]);
     if (error == 1)
         ft_printf("Syntax error in Name");
     else if(error == 2)

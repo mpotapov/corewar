@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="corewar"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="corewar">
+				<Option output="/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/corewar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 corewar"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="corewar/fast">
+				<Option output="/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/corewar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 corewar/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2016/m/mpotapov/Desktop/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/asm.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/asm.h">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/errors.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/Makefile">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/author">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/check_flag.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/choice_function.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/ft_printf.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/ft_printf.h">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_c.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_d.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_o.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_p.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_s.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_u.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_wchar_t.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/function_x.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/itoa_base_type.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/itoa_base_type_2.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/itoa_d_type.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/itoa_d_type_2.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libft_min.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libft_min_2.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libft_min_3.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libft_min_4.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libft_min_5.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libft_min_6.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libft_min_7.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/ft_printf/libftprintf.a">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/head.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/init.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/insert_label.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/labels.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/lib_1.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/author">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_atoi.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_bzero.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_isalnum.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_isalpha.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_isascii.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_isdigit.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_isprint.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_itoa.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_lstadd.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_lstdel.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_lstdelone.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_lstiter.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_lstmap.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_lstnew.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memalloc.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memccpy.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memchr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memcmp.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memcpy.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memdel.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memmove.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_memset.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_nbrlen.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_pow.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putchar.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putchar_fd.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putendl.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putendl_fd.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putnbr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putnbr_fd.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putstr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_putstr_fd.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strcat.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strchr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strclr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strcmp.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strcpy.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strdel.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strdup.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strequ.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_striter.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_striteri.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strjoin.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strlcat.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strlen.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strmap.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strmapi.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strncat.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strncmp.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strncpy.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strnequ.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strnew.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strnstr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strrchr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strsplit.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strstr.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strsub.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_strtrim.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_swap_bits.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_tolower.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_toupper.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_wordcount.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/ft_wordlen.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/libft/libft.h">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/operations.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/rdi_functions.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/tmp/asm">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/tmp/ex.cor">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/tmp/ex.s">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/tmp/test">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/tmp_struct.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/trash/h-corewar/asm">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/trash/h-corewar/corewar">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/trash/op.h">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/write_in_file.c">
+			<Option target="corewar"/>
+		</Unit>
+		<Unit filename="/nfs/2016/m/mpotapov/Desktop/corewar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
